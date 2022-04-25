@@ -4,3 +4,5 @@ E-Ticaret sitelerinin veya küçük çaplı yapı market işletmelerinin kullana
 
 proje öneri: hülya demirel
 
+UML :
+![Yapi market uml (2)](https://user-images.githubusercontent.com/100669779/165162745-02798101-a73d-43b0-911a-4900adb5ebe6.png)
