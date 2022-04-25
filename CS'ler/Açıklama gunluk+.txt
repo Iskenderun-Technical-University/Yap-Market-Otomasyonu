@@ -1,0 +1,1 @@
+Günlük satış kısmında ürünler günlük olarak  eklenip  güncellenip silinebilirler.
