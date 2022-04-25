@@ -2,12 +2,12 @@
 ## Proje önerisi açıklaması:
 E-Ticaret sitelerinin veya küçük çaplı yapı market işletmelerinin kullanabileceği. Üye yönetiminin olduğu, sonradan yeni ürünlerin eklenebilen yani güncelleştirebilen bir alım satım otomasyon projesidir. Bu zamana kadar öğrendiğimiz bilgileri kullanarak ve geliştirerek yapmayı amaçlıyorum.
 
-proje öneri: hülya demirel
+proje öneri: Hülya Demirel
 
 ## UML :
 ![Yapi market uml (2)](https://user-images.githubusercontent.com/100669779/165162745-02798101-a73d-43b0-911a-4900adb5ebe6.png)
 ## Proje nasıl çalışır 
-Uygulama Nasıl Kullanılır İçeriğinde Neler var ?
+Uygulama Nasıl Kullanılır - İçeriğinde Neler Vardır ?
 
 ### Giriş kısmı 
 
@@ -35,19 +35,19 @@ Uygulama Nasıl Kullanılır İçeriğinde Neler var ?
 
 ## Database Gereksinimleri
 ### Tablolar
-1. #### Giriş Tablosu
+1. #### Giriş Tablosu [**girisTablo**]
 + | id (int)           | email  (varchar50)          | kullaniadi(varchar20)  | sifre(varchar20)  |
   | ------------------ |:---------------------------:| ----------------------:| -----------------:|
-2. #### Ürünler Tablosu
+2. #### Ürünler Tablosu [**urunler**]
 + | id (int)           | urunIsim  (varchar50)       | urunFiyat (varchar50)  | urunStok (varchar50)  | urunBoyut (varchar50)  |
   | ------------------ |:---------------------------:| ----------------------:| -----------------:| -----------------:|
-3. #### Satışlar Tablosu
+3. #### Satışlar Tablosu [**satislar**]
 + | id (int)           | satisIsim (varchar50)      | satisFiyat(varchar50)  | 
   | ------------------ |:---------------------------:| ----------------------:| 
-4. #### Personel Tablosu
+4. #### Personel Tablosu [**personel**]
 + | id (int)           | isim(varchar50)       | soyisim(varchar50)  | maas(varchar50)  | email(varchar50)  | telno(varchar50) | adres(varchar150)  |
   | ------------------ |:---------------------:| -------------------:| ----------------:| -----------------:| ----------------:| -------------------:|
-5. #### Günlükler Tablosu
+5. #### Günlükler Tablosu [**gunluk**]
 + | id (int)           | gunlukSatis(varchar50)      | 
   | ------------------ |:---------------------------:|
 
