@@ -51,3 +51,11 @@ Uygulama Nasıl Kullanılır İçeriğinde Neler var ?
 + | id (int)           | gunlukSatis(varchar50)      | 
   | ------------------ |:---------------------------:|
 
+## Zaman Çizelgesi
+ 
+  12.03.2022 ==== Projeye karar verildi.
+  13.03.2022 ==== UML yapılıp paylaşıldı 
+  25.03.2022 ==== Proje ataslağı kuruldu 
+  26.04.2022 ==== Kodlar yazılmaya başlandı.
+  26.04.2022 ==== İlk cs'ler paylaşıldı.
+  
