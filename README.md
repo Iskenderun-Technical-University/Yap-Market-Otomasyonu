@@ -45,9 +45,9 @@ Uygulama Nasıl Kullanılır İçeriğinde Neler var ?
 + | id (int)           | satisIsim (varchar50)      | satisFiyat(varchar50)  | 
   | ------------------ |:---------------------------:| ----------------------:| 
 4. #### Personel Tablosu
-+| id (int)           | isim(varchar50)       | soyisim(varchar50)  | maas(varchar50)  | email(varchar50)  | telno(varchar50) |adres(varchar150)  |
- | ------------------ |:----------------------:| ----------------------:| -----------------:| -----------------:| -----------------:|-----------------:|
++ | id (int)           | isim(varchar50)       | soyisim(varchar50)  | maas(varchar50)  | email(varchar50)  | telno(varchar50) | adres(varchar150)  |
+  | ------------------ |:---------------------:| -------------------:| ----------------:| -----------------:| ----------------:| -------------------:|
 5. #### Günlükler Tablosu
-+| id (int)           | gunlukSatis(varchar50)      | 
- | ------------------ |:---------------------------:|
++ | id (int)           | gunlukSatis(varchar50)      | 
+  | ------------------ |:---------------------------:|
 
