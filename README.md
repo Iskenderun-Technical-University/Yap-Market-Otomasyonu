@@ -59,4 +59,5 @@ Uygulama Nasıl Kullanılır - İçeriğinde Neler Vardır ?
   + 25.03.2022 ====> Proje taslağı kuruldu.
   + 26.04.2022 ====> Kodlar yazılmaya başlandı.
   + 26.04.2022 ====> İlk cs'ler paylaşıldı.
+  + 29.05.2022 ====> Hazırlanan proje bitirilip sisteme yüklendi.
   
